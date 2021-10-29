@@ -1,2 +1,2 @@
-# Angular-Formacion
+# Angular
 Repositorio de Formación en Angular.
